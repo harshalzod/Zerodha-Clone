@@ -5,7 +5,6 @@ A full-stack clone of Zerodha (Kite), it's popular discount stock trading platfo
 ---
 ## 🚀 Features
 
-- User Authentication (Signup/Login)
 - Dashboard with Live Market Data
 - Search and Watchlist Stocks
 - Place Buy/Sell Orders (mock)
